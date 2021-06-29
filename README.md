@@ -1,0 +1,1 @@
+A React app using the Cats API, not using create-react-app as a learning project
